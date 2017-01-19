@@ -1,4 +1,4 @@
-# Self-driving-car-Lane-detection-project
+# Self-driving-car-Lane-detection
 
 This is the first project in the Self Driving Car Nanodegree course offered by Udacity.
 
